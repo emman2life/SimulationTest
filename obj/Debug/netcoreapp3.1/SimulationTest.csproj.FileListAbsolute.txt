@@ -1,0 +1,13 @@
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\obj\Debug\netcoreapp3.1\SimulationTest.csprojAssemblyReference.cache
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\obj\Debug\netcoreapp3.1\SimulationTest.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\obj\Debug\netcoreapp3.1\SimulationTest.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\obj\Debug\netcoreapp3.1\SimulationTest.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\bin\Debug\netcoreapp3.1\SimulationTest.exe
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\bin\Debug\netcoreapp3.1\SimulationTest.deps.json
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\bin\Debug\netcoreapp3.1\SimulationTest.runtimeconfig.json
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\bin\Debug\netcoreapp3.1\SimulationTest.runtimeconfig.dev.json
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\bin\Debug\netcoreapp3.1\SimulationTest.dll
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\bin\Debug\netcoreapp3.1\SimulationTest.pdb
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\obj\Debug\netcoreapp3.1\SimulationTest.dll
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\obj\Debug\netcoreapp3.1\SimulationTest.pdb
+C:\Users\emman\OneDrive\Dokument\Projects\SimulationTest\obj\Debug\netcoreapp3.1\SimulationTest.genruntimeconfig.cache

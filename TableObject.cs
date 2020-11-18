@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SimulationTest
 {
-    class TableObject
+   public class TableObject
     {
 
         public int PositionX { get; set; }
