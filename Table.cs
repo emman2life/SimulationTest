@@ -11,7 +11,7 @@ namespace SimulationTest
         private int _objectPositionX;
         private int _objectPositionY;
         private TableObject tableObject;
-        //public Table(int height, int width, int objectPositionX, int objectPositionY)
+
         public Table(string input)
         {
             int[] numsArray = Array.ConvertAll(input.Split(','), int.Parse);

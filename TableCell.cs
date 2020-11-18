@@ -15,7 +15,6 @@ namespace SimulationTest
         {
             PositionX = positionX;
             PositionY = positionY;
-            dfjgf = positionX;
 
         }
     }
