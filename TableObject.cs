@@ -122,7 +122,7 @@ namespace SimulationTest
             string str = "";
             try
             {
-                str = "The objects final position is at [" + PositionX + "," + PositionY + "]";
+                str = " [" + PositionX + "," + PositionY + "]";
             }
             catch (Exception)
             {

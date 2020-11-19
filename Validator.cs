@@ -18,7 +18,7 @@ namespace SimulationTest
         {
 
 
-            string pattern = @"^[0-9]+,[0-9]+,[0-9]+,[0-9]+$";
+            string pattern = @"^[1-9][0-9]*,[1-9][0-9]*,[0-9]+,[0-9]+$";
             Match match = Regex.Match(strNumber, pattern);
 
 

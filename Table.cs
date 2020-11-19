@@ -63,10 +63,10 @@ namespace SimulationTest
                 }
                 if (IsFailed(tableObject))
                 {
-                    return "Object fell of at " + tableObject.ToString();
+                    return "Object fell off at " + tableObject.ToString();
                 }
             }
-            return tableObject.ToString();
+            return "The objects final position is at " + tableObject.ToString();
         }
         public bool IsFailed(TableObject tableObject)
         {
