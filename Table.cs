@@ -44,8 +44,8 @@ namespace SimulationTest
                 switch (numsArray[i])
                 {
                     case 0:
-
-                        break;
+                        return "The objects final position is at " + tableObject.ToString();
+                        
                     case 1:
                         tableObject.MoveForwardOneStep();
                         break;
